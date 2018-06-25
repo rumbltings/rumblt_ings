@@ -12,7 +12,9 @@ class App extends Component {
           <h1 className="App-title">Hello! Tarin Added This!</h1>
           <h2>Tarin ALSO added this!!!</h2>
         </header>
+        <img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" alt=""/>
         <p className="App-intro">
+        <img src="https://assets.rbl.ms/10758471/980x.gif" alt=""/>
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
       </div>
